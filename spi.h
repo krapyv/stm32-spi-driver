@@ -1,6 +1,6 @@
 #ifndef SPI_H
 #define SPI_H
-#include "stm32f411.h"
+#include "core/stm32f411.h"
 #include <stdint.h>
 
 // for the future generalization
